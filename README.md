@@ -26,9 +26,11 @@ Similar comparison charts are present for the minimum, average and maximum propo
 
 ![](mGA/mGA_MGA_BBLOCKS.bmp?raw=true "Messy GA BBs")
 
-Finally chart for how the length of the messy chromosome grows outlines that competitive template method create much shorter chromosomes:
+Finally chart for how the length of the messy chromosome grows outlines that competitive template method creates much shorter chromosomes:
 
 ![](mGA/mGA_MGA_LENGTHS.bmp?raw=true "Messy GA BBs")
+
+
 
 
 # Fast Messy GA
