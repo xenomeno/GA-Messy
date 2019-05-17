@@ -48,4 +48,6 @@ Here is the first reproduced figure of the population size Ng plotted for k agai
 
 Next is the the graph for the square of the Z-score(square of the ordinate) against the input parameter alpha. Note that if this is drawn in the log scale for alpha it will be almost a straight line as is in the paper. This means my assumption about what c(alpha) is may be not that wrong:
 
-![](fmGA/C_ALPHA.bmp?raw=true "Square of the ordinate as a function of alpha"
+![](fmGA/C_ALPHA.bmp?raw=true "Square of the ordinate as a function of alpha")
+
+
