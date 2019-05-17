@@ -10,7 +10,7 @@ Bitmap file saving implementation is in pure Lua and is very slow but is just us
 
 # Messy GA
 
-First are presented the reproduction of the graphs from the original Messy GA from the excelent first paper. Following it becomes very easy for algorithm implementation. It starts with the Simple GA and presenting the difference between three orderings in chromosome representation(Tight, Loose and Random) as maximum number of Building Blocks '111' of 10 order-3 deceptive functions concatenated together(describerd in the paper):
+First are presented the reproduction of the graphs from the original Messy GA from the excelent first paper. Following it becomes very easy for algorithm implementation. It starts with the Simple GA and presenting the difference between three orderings in chromosome representation(Tight, Loose and Random) as maximum number of Building Blocks '111' of 10 order-3 deceptive functions concatenated together(described in the paper):
 
 ![](mGA/mGA_SGA_Max.bmp?raw=true "Simple GA and Orderings - Max BBs")
 
