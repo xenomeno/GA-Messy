@@ -39,7 +39,7 @@ Unfortunately things are not so easy with the fast version of the messy GA where
 
 ![](fmGA/PopSize.jpg?raw=true "Population Size accounting for noise")
 
-In our case m=10, k=3 and using the table below for the fitness of the order-3 deceptive function the square of beta is variance of that function divided by the square of the signal(difference between the best and second best), i.e. 155 / 2 = 38.75.
+In our case m=10, k=3 and using the table below for the fitness of the order-3 deceptive function the square of beta is variance of that function divided by the square of the signal(difference between the best and second best), i.e. 155 / 2^2 = 38.75.
 
 ![](fmGA/Order3.jpg?raw=true "Fitness for the Order-3 Deceptive function")
 
