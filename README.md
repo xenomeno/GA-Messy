@@ -35,7 +35,7 @@ Finally chart for how the length of the messy chromosome grows outlines that com
 
 # Fast Messy GA
 
-Unfortunately things are not so easy with the fast version of the messy GA where the primordial phase is replaced by Probabilisticaly Complete Initialization combing with filtering and length reduction of the initial messy chromosomes. As a start it was not clear to me how they calculate the size of the population and more precisely the term:
+Unfortunately things are not so easy with the fast version of the messy GA where the primordial phase is replaced by Probabilisticaly Complete Initialization combined with filtering and length reduction of the initial messy chromosomes. As a start it was not clear to me how they calculate the size of the population and more precisely the term:
 
 ![](fmGA/PopSize.jpg?raw=true "Population Size accounting for noise")
 
