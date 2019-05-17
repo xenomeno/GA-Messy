@@ -59,7 +59,7 @@ First is the no level-wise and no epochs version:
 
 ![](fmGA/BaseLine.bmp?raw=true "10 Order-3 deceptive function")
 
-Then the level-wise version after run for 25 epochs:
+Then the level-wise version after 25 epochs:
 
 ![](fmGA/5_Epochs_Level-Wise_BaseLine.bmp?raw=true "10 Order-3 deceptive function")
 
@@ -67,4 +67,4 @@ I did not see the point to test it on all the higher order deceptive functions m
 
 ![](fmGA/LargeScale.bmp?raw=true "10 Order-3 deceptive function")
 
-All hints and suggestions for the problem will be appreciated.
+All hints and suggestions for the problems will be appreciated.
