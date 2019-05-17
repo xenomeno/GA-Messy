@@ -18,7 +18,7 @@ Here is also the average number of BBs during the same simulation. Both results 
 
 ![](mGA/mGA_SGA_Avg.bmp?raw=true "Simple GA and Orderings - Average BBs")
 
-Next are the results for the Messy GA again averaged over 10 runs. Mutation probability is kept to 0, Splice probability is 1.0 and Cut probability is 1 / (2 * CHROMOSOME_LENGTH) where in our case the chromosome case is 30 = 10 * 3(SUB_FUNCTION_ORDER * SUB_FUNCTIONS). The fitness chart clearly shows that the generation at which the best solution is found is earlier than the Simple GA and is as soon as the splice operator makes the messy chromosome long enough to represent the solution. Comparison is made between the Partial Specification,Partial Evaliuation and Competitive Template methods used for calculating the fitness of messy chromosome:
+Next are the results for the Messy GA again averaged over 10 runs. Mutation probability is kept to 0, Splice probability is 1.0 and Cut probability is 1 / (2 * CHROMOSOME_LENGTH) where in our case the CHROMOSOME_LENGTH is 30 = 10 * 3 = SUB_FUNCTION_ORDER * SUB_FUNCTIONS. The fitness chart clearly shows that the generation at which the best solution is found is earlier than the Simple GA and is as soon as the splice operator makes the messy chromosome long enough to represent the solution. Comparison is made between the Partial Specification,Partial Evaliuation and Competitive Template methods used for calculating the fitness of messy chromosome:
 
 ![](mGA/mGA_MGA_FITNESS.bmp?raw=true "Messy GA Fitness")
 
